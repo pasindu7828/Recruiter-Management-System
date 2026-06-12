@@ -1,0 +1,83 @@
+{
+    "communication": ["communication", "verbal communication", "written communication", "presentation", "public speaking", "interpersonal", "correspondence"],
+    "leadership": ["leadership", "team lead", "supervision", "management", "supervisor", "manager", "director", "executive"],
+    "teamwork": ["teamwork", "collaboration", "team player", "cross-functional", "cooperation"],
+    "problem_solving": ["problem solving", "analytical", "critical thinking", "troubleshooting", "decision making"],
+    "customer_service": ["customer service", "client relations", "customer support", "client management", "customer satisfaction"],
+    "project_management": ["project management", "agile", "scrum", "project planning", "coordination", "waterfall", "jira"],
+    "time_management": ["time management", "deadline", "multitasking", "prioritization", "scheduling"],
+    "organization": ["organization", "administrative", "record keeping", "filing", "documentation"],
+    
+    "python": ["python", "django", "flask", "fastapi", "pandas", "numpy", "scikit-learn", "pytorch", "tensorflow", "jupyter"],
+    "javascript": ["javascript", "js", "node.js", "react", "vue", "angular", "express", "next.js", "typescript"],
+    "java": ["java", "spring", "spring boot", "hibernate", "maven", "gradle"],
+    "sql": ["sql", "mysql", "postgresql", "postgres", "oracle", "sql server", "sqlite", "mongodb"],
+    "mongodb": ["mongodb", "mongo", "nosql"],
+    "aws": ["aws", "amazon web services", "ec2", "s3", "lambda", "cloudformation", "ecs"],
+    "docker": ["docker", "container", "dockerfile", "docker-compose"],
+    "kubernetes": ["kubernetes", "k8s", "aks", "eks", "gke"],
+    "react": ["react", "react.js", "reactjs", "next.js"],
+    "node.js": ["node.js", "nodejs", "express"],
+    "html": ["html", "html5", "xhtml"],
+    "css": ["css", "css3", "sass", "scss", "tailwind", "bootstrap"],
+    "git": ["git", "github", "gitlab"],
+    "ci/cd": ["jenkins", "gitlab ci", "github actions", "circleci"],
+    "data_science": ["data science", "machine learning", "ml", "deep learning", "neural networks", "ai"],
+    
+    "soft_skills": ["communication", "leadership", "teamwork", "problem solving", "time management"],
+
+    "sales": ["sales", "business development", "account management", "negotiation", "closing", "lead generation", "cold calling"],
+    "marketing": ["marketing", "digital marketing", "social media", "content creation", "seo", "sem", "email marketing", "branding"],
+    
+    "finance": ["finance", "accounting", "budgeting", "financial analysis", "bookkeeping", "audit", "tax", "payroll", "quickbooks", "sage"],
+    "data_analysis": ["data analysis", "analytics", "excel", "reporting", "data visualization", "power bi", "tableau", "sql"],
+    
+    "hr": ["human resources", "recruiting", "onboarding", "employee relations", "payroll", "benefits", "training", "performance management"],
+    "administration": ["administration", "office management", "clerical", "reception", "secretarial", "executive assistant"],
+    
+    "operations": ["operations", "logistics", "supply chain", "inventory", "warehouse", "distribution", "procurement", "purchasing"],
+    "quality": ["quality control", "quality assurance", "qa", "inspection", "compliance", "iso", "six sigma", "lean"],
+    "safety": ["safety", "health and safety", "osha", "security", "risk management", "ehs"],
+    
+    "healthcare": ["healthcare", "patient care", "nursing", "medical", "clinical", "hospital", "pharmacy", "caregiving"],
+    "medical": ["medical terminology", "emr", "ehr", "epic", "cerner", "vital signs", "medication administration"],
+    "nursing": ["nursing", "rn", "lpn", "cna", "patient assessment", "care plan", "wound care"],
+    
+    "education": ["education", "teaching", "instruction", "curriculum", "lesson planning", "student assessment", "classroom management"],
+    "training": ["training", "facilitation", "coaching", "mentoring", "instructional design"],
+    
+    "construction": ["construction", "building", "contractor", "carpentry", "electrical", "plumbing", "hvac", "blueprint", "cad"],
+    "engineering": ["engineering", "mechanical", "electrical", "civil", "chemical", "design", "autocad", "solidworks"],
+    "manufacturing": ["manufacturing", "production", "assembly", "machining", "fabrication", "lean manufacturing", "kaizen"],
+    
+    "hospitality": ["hospitality", "restaurant", "hotel", "food service", "bartending", "serving", "catering", "housekeeping"],
+    "culinary": ["culinary", "cooking", "chef", "kitchen", "food preparation", "menu planning"],
+    
+    "retail": ["retail", "merchandising", "cashier", "inventory", "visual merchandising", "point of sale", "pos"],
+    
+    "logistics": ["logistics", "transportation", "fleet", "delivery", "shipping", "receiving", "freight", "customs"],
+    "warehouse": ["warehouse", "forklift", "picking", "packing", "inventory control", "warehouse management"],
+    
+    "legal": ["legal", "law", "paralegal", "legal assistant", "contracts", "compliance", "regulatory", "litigation"],
+    
+    "it": ["it", "computer", "software", "hardware", "networking", "cybersecurity", "help desk", "technical support"],
+    "software": ["software", "programming", "development", "coding", "database", "api", "cloud"],
+    
+    "creative": ["creative", "design", "graphic design", "photoshop", "illustrator", "adobe", "photography", "video editing"],
+    "writing": ["writing", "content writing", "copywriting", "editing", "proofreading", "technical writing", "journalism"],
+    
+    "accounting": ["accounting", "accounts payable", "accounts receivable", "general ledger", "reconciliation", "quickbooks", "xero"],
+    "audit": ["audit", "auditing", "internal audit", "external audit", "compliance audit"],
+    
+    "customer_support": ["customer support", "call center", "help desk", "technical support", "ticketing system", "zendesk"],
+    
+    "research": ["research", "analysis", "market research", "data collection", "survey", "statistics"],
+    
+    "languages": ["bilingual", "multilingual", "spanish", "french", "german", "mandarin", "japanese", "english"],
+    
+    "driving": ["driving", "cdl", "commercial driver", "transportation", "delivery driver", "truck driver"],
+    
+    "maintenance": ["maintenance", "repair", "facilities", "janitorial", "custodial", "handyman", "technician"],
+    
+    "agriculture": ["agriculture", "farming", "horticulture", "landscaping", "irrigation", "harvesting"]
+}
